@@ -10,7 +10,7 @@ android {
     }
 
     namespace = "com.example.listadoparques"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.listadoparques"
